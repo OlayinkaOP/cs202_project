@@ -9,5 +9,3 @@ def phonebook_lookup(filename):
 
 print("\nPrinting your phonebook dict as key-value pair of name-phone")
 print(phonebook_lookup("phonebook.txt"))
-print("\nPrinting the length of your phonebook dict ")
-print(len(phonebook_lookup("phonebook.txt")))
