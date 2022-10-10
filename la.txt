@@ -1,3 +1,3 @@
 -	We can see the change we have made in this file. 
 The actual benefit of this is when you can look back at earlier commits. 
-By including ~1, ~2 ~3 etc. to refer to previous
+By including ~1, ~2 ~3 etc. to refer to 
